@@ -1,0 +1,59 @@
+/**
+ * Theme Name:     Divi Child
+ * Author:         Elegant Themes
+ * Template:       Divi
+ * Text Domain:	   divi-child
+ * Description:    Smart. Flexible. Beautiful. Divi is the most powerful theme in our collection.
+ */
+
+
+
+.form-required { display: none; }
+
+body .gform_wrapper .gfield_required {
+display: none;
+}
+
+
+body .gform_wrapper ul
+
+{
+margin-top: 0px;
+}
+
+.et_pb_section {
+    padding: 10px 0;
+}
+.et_pb_row, .et_pb_column .et_pb_row_inner {
+    padding: 20px 0;
+}
+body .gform_wrapper .gf_step {
+    width: auto;
+    display: -moz-inline-stack;
+    display: inline-block;
+    margin: 16px 32px 16px 0;
+}
+.myButton {
+	background-color:#48d5b4;
+	-moz-border-radius:18px;
+	-webkit-border-radius:18px;
+	border-radius:18px;
+	border:2px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	font-weight:bold;
+	padding:23px 68px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
